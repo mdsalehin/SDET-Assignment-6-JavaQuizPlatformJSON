@@ -19,7 +19,7 @@ It’s just Java + JSON + console input/output.
 ## 🎬 Video Demonstration
 - **Watch the project in action here:**
 
-[![Watch Video](https://img.icons8.com/ios-filled/50/000000/play--v1.png)](https://drive.google.com/file/d/1SaOaode85S4tzQk3pj6wec_ZqxipFGaZ/view?usp=sharing)
+[▶️ Click to Watch Video](https://drive.google.com/file/d/1SaOaode85S4tzQk3pj6wec_ZqxipFGaZ/view?usp=sharing)
 
 -
 ## How is it built?
