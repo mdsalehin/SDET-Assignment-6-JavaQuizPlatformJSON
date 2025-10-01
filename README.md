@@ -21,7 +21,7 @@ It’s just Java + JSON + console input/output.
 
 [▶️ Click to Watch Video](https://drive.google.com/file/d/1SaOaode85S4tzQk3pj6wec_ZqxipFGaZ/view?usp=sharing)
 
--
+
 ## How is it built?
 - **Java classes** handle different parts:
   - `LogIn.java` → lets users log in  
