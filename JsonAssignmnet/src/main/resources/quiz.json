@@ -1,0 +1,90 @@
+[
+  {
+    "answerkey": 4,
+    "option 3": "Load Testing",
+    "option 4": "Unit Testing",
+    "question": "Which is not part of system testing?",
+    "option 1": "Regression Testing",
+    "option 2": "Sanity Testing"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Tree",
+    "option 4": "Graph",
+    "question": "Which data structure works on the principle of FIFO?",
+    "option 1": "Stack",
+    "option 2": "Queue"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "implements",
+    "option 4": "super",
+    "question": "Which keyword in Java is used to inherit a class?",
+    "option 1": "this",
+    "option 2": "extends"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "FTP",
+    "option 4": "IMAP",
+    "question": "Which protocol is used to send emails?",
+    "option 1": "SMTP",
+    "option 2": "HTTP"
+  },
+  {
+    "answerkey": 4,
+    "option 3": "Inheritance",
+    "option 4": "Compilation",
+    "question": "Which of these is not an OOP principle?",
+    "option 1": "Encapsulation",
+    "option 2": "Polymorphism"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "REMOVE",
+    "option 4": "TRUNCATE",
+    "question": "Which SQL command is used to remove a table?",
+    "option 1": "DELETE",
+    "option 2": "DROP"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "Set",
+    "option 4": "Queue",
+    "question": "Which collection in Java does not allow duplicate elements?",
+    "option 1": "List",
+    "option 2": "Map"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "Transport Layer",
+    "option 4": "Application Layer",
+    "question": "Which layer of the OSI model is responsible for routing?",
+    "option 1": "Data Link Layer",
+    "option 2": "Network Layer"
+  },
+  {
+    "answerkey": 1,
+    "option 3": "AND",
+    "option 4": "||",
+    "question": "Which operator is used for logical AND in Java?",
+    "option 1": "&&",
+    "option 2": "&"
+  },
+  {
+    "answerkey": 3,
+    "option 3": "RAM",
+    "option 4": "Hard Disk",
+    "question": "Which memory is volatile?",
+    "option 1": "ROM",
+    "option 2": "Flash"
+  },
+  {
+    "answerkey": 2,
+    "option 3": "MS7 SALAHIN",
+    "option 4": "MD SALAHAIN SALAHIN",
+    "question": "WHAT IS MY NAME",
+    "option 1": "SALAHIN",
+    "option 2": "MD SALAHIN"
+  }
+]
