@@ -37,8 +37,8 @@ So, the code is the “engine,” and the JSON files are the “fuel.”
 This is a **role-based Quiz Management System** built using Java.  
 It has two types of users:  
 
-- 👨‍💼 **Admin** → Can add multiple-choice questions (MCQs) to the quiz bank.  
-- 🎓 **Student** → Can log in and take a 10-question quiz.  
+-  **Admin** → Can add multiple-choice questions (MCQs) to the quiz bank.  
+-  **Student** → Can log in and take a 10-question quiz.  
 
 All data is stored in JSON files for persistence.
 
