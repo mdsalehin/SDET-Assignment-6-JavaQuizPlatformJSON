@@ -16,11 +16,11 @@ It’s just Java + JSON + console input/output.
 - The admin can add new quiz questions or new users (students) into the system.  
 
 ---
-
-## Video Demonstration
+## 🎬 Video Demonstration
 - **Watch the project in action here:**
-- 
-[Video Link](https://drive.google.com/file/d/1SaOaode85S4tzQk3pj6wec_ZqxipFGaZ/view?usp=sharing)
+
+[![Watch Video](https://img.icons8.com/ios-filled/50/000000/play--v1.png)](https://drive.google.com/file/d/1SaOaode85S4tzQk3pj6wec_ZqxipFGaZ/view?usp=sharing)
+
 -
 ## How is it built?
 - **Java classes** handle different parts:
